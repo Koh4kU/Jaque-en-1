@@ -1,0 +1,13 @@
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+V,V,V,V,V,V,V,V
+SOLUCION
+
+
+Basicamente puedes cambiar las V(que DEBEN ir separadas por comas)por sus piezas respectivas en forma de tablero 
+como en el ejemplo de arriba(template para otro txt si fuera necesario) y al final de esta en una linea a parte debe estar la solucion.
