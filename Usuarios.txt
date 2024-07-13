@@ -1,0 +1,5 @@
+Lista de todos los usuarios implentados por defecto:
+
+usuario :javier	contraseña: asd
+usuario: alex	contraseña: 123
+usuario: pepe	contraseña: 1234

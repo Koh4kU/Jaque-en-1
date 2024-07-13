@@ -1,0 +1,6 @@
+El .jar esta en dist porque si lo sacabamos nos daba problemas
+Todos los usuarios estan registrados en usuario.txt(puedes añadir mas)
+Jaque mate 1 y 2 se meteran en la base de datos porque no esta implementado la funcion de jaque mate
+Users es el binario de usuarios y contraseñas
+listaU_problemas es el binario de los intentos aciertos de cada problema
+Almacenproblemas es el binario donde se guardan los .txt de problemas subidos por los usuarios
